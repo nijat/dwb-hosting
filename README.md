@@ -12,7 +12,7 @@ python -m pip install -r requirements.txt
 Change environment (**.env**) file
 ```bash
 DEBUG=True
-IP=134.76.8.142
+IP=
 PORT=5000
 DB_SERVER=""
 DB_DATABASE="master"
